@@ -3,8 +3,8 @@ Contributors: stephenharris
 Donate link: http://www.wp-event-organiser.com/donate
 Tags: events, event, event categories, event organizer, events calendar, event management, ical, locations, google map, OpenStreetMap, widget, venues, maps, gigs, shows,
 Requires at least: 3.8.0
-Tested up to: 7.0.0
-Stable tag: 3.12.10
+Tested up to: 7.1.3
+Stable tag: 3.12.11
 License: GPLv3
 
 Create and maintain events, including complex reoccurring patterns, venue management (with Google Maps or OpenStreetMap), calendars and customisable event lists
@@ -221,6 +221,10 @@ More information on shortcodes is [available here](http://wp-event-organiser.com
 8. Events list (using TwentySixteen)
 
 == Changelog ==
+
+
+= 3.12.11 - 25th October 2026
+* Bugfix: Limit attributes that can passed to img for event thumbnail in event list shortcode/widget.
 
 = 3.12.10 - 28th June 2026
 * Bugfix: Escape ID attribute on event list shortcode

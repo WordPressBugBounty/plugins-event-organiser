@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-06-28 19:24+0100\n"
+"POT-Creation-Date: 2026-10-25 19:05+0000\n"
 "PO-Revision-Date: 2016-11-27T01:14:57+00:00\n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -288,7 +288,7 @@ msgstr "地點"
 msgid "Select Venue"
 msgstr "選擇地點"
 
-#: classes/class-eventorganiser-shortcodes.php:472
+#: classes/class-eventorganiser-shortcodes.php:474
 msgid "There is no excerpt because this is a protected post."
 msgstr ""
 
